@@ -217,5 +217,6 @@ print(label[cluster[0]])
 # cv2.destroyAllWindows()
 
 '''
-Sample run: python currency.py test/currency_test.jpg
+Sample run:     python currency.py test/2000.jpg
+
 '''
